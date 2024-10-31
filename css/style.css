@@ -1,9 +1,21 @@
 .header{
     min-width: 100%;
     text-align: center;
+<<<<<<< HEAD
 }
 
 body {
 
     background-color: aquamarine;
+=======
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body{
+    background-color: aquamarine;
+}
+
+#video{
+    text-align: center;
+>>>>>>> 882895323713212fbd9d86ce1df5b4f1e4214729
 }
