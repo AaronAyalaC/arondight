@@ -4,7 +4,10 @@
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
+body{
+    background-color: aquamarine;
+}
+
 #video{
     text-align: center;
-    
 }
